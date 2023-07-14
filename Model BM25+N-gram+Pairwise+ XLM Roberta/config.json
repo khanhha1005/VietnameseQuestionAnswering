@@ -1,0 +1,13 @@
+{
+  "device": "cuda",
+  "dataset_path": null,
+  "retriever": "bm25",
+  "k1": 0.9,
+  "b": 0.4,
+  "index_path": null,
+  "output": null,
+  "output_nbest_file": null,
+  "language": "vi",
+  "support_no_answer": false,
+  "strip_accents": false
+}
